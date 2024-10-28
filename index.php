@@ -14,7 +14,7 @@
     ?>
     <div id="relojCliente"></div>
     <script src="./js/reloj.js"></script>
-
+    <h2>Prueba para cambiar cosas desde el index</h2>
     <form action="insertar.php" method="POST">
         <label for="nombre">Nombre:</label>
         <input type="text" name="nombre" id="nombre" required>
