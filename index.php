@@ -8,6 +8,8 @@
 <body>
     <h1>prueba desde portatil</h1>
     <h1>Yassin Charrouf Errynda</h1>
+    <h2>Cambio
+    </h2>
     <?php
         date_default_timezone_set('Europe/Madrid');
         echo date('H:i:s');
