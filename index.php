@@ -6,7 +6,7 @@
     <title>Web de Yassin Charrouf Errynda</title>
 </head>
 <body>
-    <!-- php no funciona -->
+    <h1>prueba desde portatil</h1>
     <h1>Yassin Charrouf Errynda</h1>
     <?php
         date_default_timezone_set('Europe/Madrid');
